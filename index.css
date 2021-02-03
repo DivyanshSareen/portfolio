@@ -2,10 +2,6 @@
   --ff-rubik: "Rubik", sans-serif;
   --ff-karla: "Karla", sans-serif;
 
-  --fw--thin: 175;
-  --fw-reg: 300;
-  --fw-bold: 900;
-
   --fs-h1: 3rem;
   --fs-h2: 2.5rem;
   --fs-h3: 1.25rem;
@@ -139,12 +135,30 @@ label {
   border: 0.1em solid;
   border-color: black;
   border-radius: 1em;
+  padding: 2em 1em 0em 1em;
 }
+
+.repo_descrip {
+  font-size: x-small;
+  font-size: 0.5em;
+}
+
 .repo__stat {
   display: flex;
   justify-content: flex-end;
-  margin-right: 1.5em;
+  padding-top: 2.5em;
 }
+
+.repo__stat img {
+  padding-right: 0.25em;
+}
+
+.repo__stat p {
+  padding-right: 0.5em;
+  position: relative;
+  bottom: 0.6em;
+}
+
 .stat-icon {
   height: 1.5em;
 }
@@ -167,13 +181,15 @@ label {
   overflow: hidden;
 }
 .cert_card img {
-  height: 15em;
+  height: 14.2em;
   width: 23em;
   margin: 0em;
   border-bottom: 0.1em solid;
 }
 .cert__title {
   margin: 0;
+  padding-top: 0.2em;
+  padding: 0.3em 0em 0em 1em;
 }
 
 .contact {
@@ -196,6 +212,10 @@ label {
 .message {
   margin-top: 3em;
 }
+.message label {
+  font-family: var(--ff-karla);
+  font-weight: bold;
+}
 .message_form {
   display: grid;
   margin: 1em;
@@ -206,11 +226,13 @@ label {
 }
 .message_form textarea {
   margin-bottom: 0em;
+  resize: none;
 }
 .message_form input {
   width: 7em;
   justify-self: right;
   margin: 0em 4em 1em 0em;
+  font-family: var(--ff-karla);
 }
 i {
   font-size: 2em;
