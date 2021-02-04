@@ -175,7 +175,7 @@ label {
   width: 23em;
   height: 17em;
   margin: 0em 1em 1em 0em;
-  border: 0.1em solid;
+  border: solid;
   border-color: black;
   border-radius: 1em;
   overflow: hidden;
@@ -184,7 +184,7 @@ label {
   height: 14.2em;
   width: 23em;
   margin: 0em;
-  border-bottom: 0.1em solid;
+  border-bottom: solid;
 }
 .cert__title {
   margin: 0;
@@ -227,12 +227,20 @@ label {
 .message_form textarea {
   margin-bottom: 0em;
   resize: none;
+  outline: none;
+  padding: 1em;
+  border-radius: 10px;
+  border: black solid;
+  font-family: var(--ff-karla);
 }
 .message_form input {
   width: 7em;
   justify-self: right;
   margin: 0em 4em 1em 0em;
   font-family: var(--ff-karla);
+  border: black solid;
+  height: 2em;
+  border-radius: 5px;
 }
 i {
   font-size: 2em;
@@ -270,5 +278,8 @@ footer {
   }
   ul {
     font-size: small;
+  }
+  .message_form input {
+    margin: 0em auto 0em auto;
   }
 }
