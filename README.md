@@ -6,7 +6,7 @@ An online portfolio showcasing my projects, certifications and profiles.
 
 ![project preview](https://github.com/DivyanshSareen/portfolio/blob/main/resources/artboards/Capture.PNG)
 
-Link to website: [![Netlify Status](https://api.netlify.com/api/v1/badges/0302630b-62c5-42f9-af45-971fdabf5cb3/deploy-status)](https://app.netlify.com/sites/infallible-khorana-3a9f38/deploys)
+Link to website: [![Netlify Status](https://api.netlify.com/api/v1/badges/0302630b-62c5-42f9-af45-971fdabf5cb3/deploy-status)](https://app.netlify.com/sites/divyanshsareen/deploys)
 
 ### Technologies Used:
 
