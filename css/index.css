@@ -1,0 +1,45 @@
+nav {
+  position: fixed;
+}
+
+.hero-name {
+  padding-left: 1.7em;
+}
+
+section {
+  height: 100vh;
+}
+
+.introduction {
+  height: 100vh;
+  padding: 30vh;
+}
+
+.opening {
+  position: relative;
+  height: 18rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+#left-box {
+  border-right: 10px black solid;
+}
+
+h5 {
+  margin-bottom: auto;
+}
+
+.carousel {
+  margin-top: 1.3em;
+  height: 67vh;
+  width: 40vw;
+}
+
+.cert {
+  height: 100%;
+  width: 100%;
+}
