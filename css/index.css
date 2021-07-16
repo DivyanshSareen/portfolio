@@ -1,5 +1,12 @@
+body {
+  background-color: #444444;
+  color: #171717;
+}
+
 nav {
   position: fixed;
+  color: #ededed;
+  background-color: #171717;
 }
 
 .hero-name {
@@ -23,6 +30,7 @@ section {
   align-items: center;
   padding-left: 1em;
   padding-right: 1em;
+  background-color: #ededed;
 }
 
 #left-box {
@@ -31,6 +39,10 @@ section {
 
 h5 {
   margin-bottom: auto;
+}
+
+h4 {
+  color: #ededed;
 }
 
 .carousel {
@@ -42,4 +54,29 @@ h5 {
 .cert {
   height: 100%;
   width: 100%;
+}
+
+.page-footer {
+  background-color: #171717;
+}
+
+.imp {
+  color: #da0037;
+}
+
+i {
+  color: #da0037;
+}
+
+.divider {
+  background-color: #171717;
+}
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
 }
