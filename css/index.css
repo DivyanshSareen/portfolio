@@ -20,6 +20,10 @@ nav {
   color: #171717;
 }
 
+sp_icon {
+  background-color: green;
+}
+
 .hero-name {
   padding-left: 1.7em;
 }
