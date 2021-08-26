@@ -11,4 +11,3 @@
     indicators: true
   });
 
-  

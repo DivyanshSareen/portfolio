@@ -101,9 +101,9 @@ main {
   color: #da0037;
 }
 
-@media screen and (max-width: 400px) {
-  body {
-    background-color: aquamarine;
+@media screen and (max-width: 800px) {
+  .smol_screen {
+    display: none;
   }
 }
 
@@ -117,3 +117,9 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
   color: #181818;
 }
+/* 
+@media (max-width: 640px) {
+  .divider {
+    display: none;
+  }
+} */
