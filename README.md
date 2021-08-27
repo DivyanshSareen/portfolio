@@ -4,7 +4,7 @@
 
 An online portfolio showcasing my projects, certifications and profiles.
 
-![project preview](https://github.com/DivyanshSareen/portfolio/blob/main/resources/artboards/Capture.PNG)
+![project preview](https://user-images.githubusercontent.com/59335572/131098119-45c24ab0-237d-4673-8e6b-7b3a3590e989.png)
 
 Link to website: [![Netlify Status](https://api.netlify.com/api/v1/badges/0302630b-62c5-42f9-af45-971fdabf5cb3/deploy-status)](https://app.netlify.com/sites/divyanshsareen/deploys)
 
