@@ -10,8 +10,7 @@ Link to website: [![Netlify Status](https://api.netlify.com/api/v1/badges/030263
 
 ### Technologies Used:
 
-- The website was designed using AdobeXD, you can find the artboards [here](https://github.com/DivyanshSareen/portfolio/tree/main/resources/artboards)
-- The frontend of the website was made using HTML, CSS and JS.
+- The frontend of the website was made using HTML, CSS, JS and Materialize.
 - The site is deployed using Netlify.
 
 ### Future Plans:
