@@ -19,7 +19,10 @@ nav {
   background-color: #da0037;
   color: #171717;
 }
-
+btn:focus {
+  background-color: #da0037;
+  color: #171717;
+}
 sp_icon {
   background-color: green;
 }
@@ -104,6 +107,9 @@ main {
 @media screen and (max-width: 800px) {
   .smol_screen {
     display: none;
+  }
+  .smol-head {
+    font-size: medium;
   }
 }
 
