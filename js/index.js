@@ -10,4 +10,5 @@
   var instance = M.Carousel.init({
     indicators: true
   });
-
+  var instance = M.Carousel.getInstance(elem);
+  instance.next();

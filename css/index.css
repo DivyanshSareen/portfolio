@@ -129,3 +129,12 @@ tr:nth-child(odd) {
     display: none;
   }
 } */
+.projects {
+  margin-top: 5rem;
+}
+.skills {
+  margin-top: 5rem;
+}
+.certificates {
+  margin-top: 5rem;
+}
