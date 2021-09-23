@@ -111,6 +111,13 @@ main {
   .smol-head {
     font-size: medium;
   }
+  .projects {
+    margin-top: 5rem;
+    margin-bottom: 50rem;
+  }
+  .page-footer {
+    margin-top: 10rem;
+  }
 }
 
 .card-title {
@@ -131,6 +138,7 @@ tr:nth-child(odd) {
 } */
 .projects {
   margin-top: 5rem;
+  margin-bottom: 20em;
 }
 .skills {
   margin-top: 5rem;
