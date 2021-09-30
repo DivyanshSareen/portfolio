@@ -156,9 +156,10 @@ tr:nth-child(odd) {
 .blog {
   color: #ededed;
   height: auto;
-  padding: 10em;
+  padding-right: 2em 2em 2em 0em;
 }
 .blog-header {
   color: #da0037;
   font-size: 3.5rem;
+  margin-top: 3em;
 }
